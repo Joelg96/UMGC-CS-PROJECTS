@@ -1,0 +1,8 @@
+Scene Polygons (500, 500)
+  RightTriangle Color (255, 0, 0) at (150, 30) Height 100 Width 300;
+  Rectangle Color (80, 50, 255) at (80, 90) Height 100 Width 150;
+  IsoscelesTriangle Color (100, 0, 0) at (120, 150) Height 50 Width 80;
+  Parallelogram Color (80, 100, 150) at (300, 50) (440, 120) Offset -30;
+  RegularPolygon Color (255, 100, 0) at (300, 300) Sides 15 Radius 120;
+  Text Color (0, 100, 0) at (300, 200) "This is Scene 1";
+End.

@@ -1,0 +1,6 @@
+************* Module lab_two_security_app
+lab_two_security_app.py:114:0: C0301: Line too long (102/100) (line-too-long)
+
+------------------------------------------------------------------
+Your code has been rated at 9.88/10 (previous run: 9.88/10, +0.00)
+
