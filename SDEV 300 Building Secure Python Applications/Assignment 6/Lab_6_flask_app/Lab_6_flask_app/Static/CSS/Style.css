@@ -1,0 +1,30 @@
+body {
+    background-color: #808080;
+    font-family: Arial;
+    }
+
+h1 {
+    color: #000000;
+    font-family: copperplate;
+   }
+
+h2 {
+    color: #000000;
+    font-family: copperplate;
+   }
+
+h3 {
+    color: #000000;
+    font-family: copperplate;
+   }
+
+h4 {
+    color: #000000;
+    font-family: copperplate;
+   }
+
+p {
+   color: #blue;
+   border: 2px solid #F8F8FF;
+   padding: 15px;
+   }

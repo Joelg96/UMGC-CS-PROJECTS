@@ -1,0 +1,7 @@
+************* Module lab_three_us_states
+lab_three_us_states.py:186:26: R1733: Unnecessary dictionary index lookup, use 'value' instead (unnecessary-dict-index-lookup)
+lab_three_us_states.py:185:11: W0612: Unused variable 'value' (unused-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 9.71/10 (previous run: 9.71/10, +0.00)
+
