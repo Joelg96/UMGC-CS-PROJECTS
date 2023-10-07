@@ -1,4 +1,4 @@
-# My personal shcool projects
+# My personal school projects
 
 This is a collection of personal projects and assignments from UMGC. Actively being updated:
 
