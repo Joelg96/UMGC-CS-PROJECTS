@@ -1,5 +1,6 @@
-# UMGC-PROJECTS-ASSIGNMENTS
-This is a collection of projects and assignments from UMGC. Activley being updated:
+# My personal shcool projects
+
+This is a collection of personal projects and assignments from UMGC. Actively being updated:
 
 ## CMIS 141: Intro to Programming
 
